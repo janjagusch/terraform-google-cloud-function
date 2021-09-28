@@ -1,0 +1,5 @@
+source_dir       = "./example"
+func_description = "An example function."
+topic_name       = "example"
+project_name     = "example"
+bucket_name      = "example"
